@@ -1,6 +1,7 @@
 ### Hi there, I'm Patrick Sasso 👋
 
-- 💻 I'm a Front End and Mobile Developer
+## I'm a Front End and Mobile Developer
+
 - 🌱 I’m currently learning more about JavaScript, ReactJS and Flutter
 
 ### Connect with me:
