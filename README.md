@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer
 
-- Currently, I am working as a native mobile developer using Kotlin and Swift at Calindra, participating in the development of the mobile development platform called Eitri[Eitri].
+- Currently, I am working as a native mobile developer using Kotlin and Swift at Calindra, participating in the development of the mobile development platform called [Eitri].
 
 ### Connect with me:
 
