@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer
 
-- Currently, I am working as a native mobile developer using Kotlin and Swift at Calindra, participating in the development of the mobile development platform called [Eitri]: https://www.site.eitri.calindra.com.br/.
+- Currently, I am working as a native mobile developer using Kotlin and Swift at Calindra, participating in the development of the mobile development platform called Eitri[Eitri].
 
 ### Connect with me:
 
@@ -26,3 +26,4 @@
 <img align="left" alt="pksasso's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pksasso&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
 
 [linkedin]: https://linkedin.com/in/patricksasso
+[Eitri]: https://www.site.eitri.calindra.com.br/
