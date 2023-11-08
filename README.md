@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer
 
-- 🌱 I’m currently learning more about ReactJS and Flutter
+- Currently, I am working as a native mobile developer using Kotlin and Swift at Calindra, participating in the development of the mobile development platform called [Eitri]: https://www.site.eitri.calindra.com.br/.
 
 ### Connect with me:
 
